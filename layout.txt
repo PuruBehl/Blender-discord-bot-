@@ -1,0 +1,3 @@
+1. making the script for blenderbot where you enter a question and then it answers it
+2. making a simple discord bot which is taking in input as a text and outputting same thing again and again
+3. pass the input of the bot to the blender bot and then giving out the output.
